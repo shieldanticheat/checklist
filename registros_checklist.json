@@ -1,0 +1,1056 @@
+{
+  "2026-10-14": {
+    "Tecnologia e Informação - TIC": {
+      "situacao": "Concluído",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Concluído",
+        "Recolher o lixo": "Concluído",
+        "Organizar o ambiente": "Concluído",
+        "Aspirar o carpete": "Concluído",
+        "Toalete interno da TIC - lavar o piso": "Concluído",
+        "Toalete interno da TIC - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da TIC - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da TIC - limpar espelho": "Pendente",
+        "Toalete interno da TIC - repor materiais, se necessário": "Pendente",
+        "Toalete interno da TIC - recolher o lixo": "Pendente"
+      }
+    },
+    "Comercial e Contas Particulares": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "SCIH": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Concluído",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Gestão de Leitos": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Qualidade": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Concluído",
+        "Recolher o lixo": "Concluído",
+        "Organizar o ambiente": "Concluído",
+        "Aspirar o carpete": "Concluído"
+      }
+    },
+    "Gerência de Contas Médicas": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Direção Médica": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Gestão de Contratos (Serviços Terceiros)": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Cadastro": {
+      "situacao": "Retornar mais tarde",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Direção Assistencial": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da Direção Assistencial - lavar o piso": "Pendente",
+        "Toalete interno da Direção Assistencial - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da Direção Assistencial - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da Direção Assistencial - limpar espelho": "Pendente",
+        "Toalete interno da Direção Assistencial - repor materiais, se necessário": "Pendente",
+        "Toalete interno da Direção Assistencial - recolher o lixo": "Pendente"
+      }
+    },
+    "Diretoria Administrativa": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da Diretoria Administrativa - lavar o piso": "Pendente",
+        "Toalete interno da Diretoria Administrativa - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da Diretoria Administrativa - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da Diretoria Administrativa - limpar espelho": "Pendente",
+        "Toalete interno da Diretoria Administrativa - repor materiais, se necessário": "Pendente",
+        "Toalete interno da Diretoria Administrativa - recolher o lixo": "Pendente"
+      }
+    },
+    "Diretoria Operacional": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da Diretoria Operacional - lavar o piso": "Pendente",
+        "Toalete interno da Diretoria Operacional - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da Diretoria Operacional - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da Diretoria Operacional - limpar espelho": "Pendente",
+        "Toalete interno da Diretoria Operacional - repor materiais, se necessário": "Pendente",
+        "Toalete interno da Diretoria Operacional - recolher o lixo": "Pendente"
+      }
+    },
+    "Sala de Reuniões - Ébano": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Copa": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar mesas e bancadas": "Pendente",
+        "Limpar pia e torneira": "Pendente",
+        "Recolher o lixo da copa": "Pendente",
+        "Organizar a copa": "Pendente",
+        "Limpar a geladeira": "Não aplicável hoje",
+        "Aspirar o carpete da copa": "Não aplicável hoje",
+        "Banheiro Masculino principal (na copa) - lavar o piso": "Pendente",
+        "Banheiro Masculino principal (na copa) - higienizar vaso sanitário": "Pendente",
+        "Banheiro Masculino principal (na copa) - higienizar pia e torneiras": "Pendente",
+        "Banheiro Masculino principal (na copa) - limpar espelho": "Pendente",
+        "Banheiro Masculino principal (na copa) - repor materiais, se necessário": "Pendente",
+        "Banheiro Masculino principal (na copa) - recolher o lixo": "Pendente"
+      }
+    },
+    "Banheiro Feminino": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala da Gerência da Contabilidade": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala do Setor de Compras": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala do Setor SIGE": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala do Gerente Financeiro": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Salão de Computadores": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Copa": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar mesas e bancadas": "Pendente",
+        "Limpar pia e torneira": "Pendente",
+        "Limpar a parte externa da geladeira": "Pendente",
+        "Limpar o interior da geladeira": "Não aplicável hoje",
+        "Limpar o micro-ondas": "Pendente",
+        "Recolher o lixo da copa": "Pendente",
+        "Organizar a copa": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Toalete Unissex": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Toalete Masculino": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Toalete Feminino": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    }
+  },
+  "limpeza_terminal": {
+    "2026-10": {
+      "Tecnologia e Informação - TIC": {
+        "data_realizacao": "14/10/2026",
+        "situacao": "Realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Concluído",
+          "Higienização terminal conforme protocolo": "Concluído"
+        }
+      },
+      "Comercial e Contas Particulares": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "SCIH": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Gestão de Leitos": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Qualidade": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Gerência de Contas Médicas": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Direção Médica": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Gestão de Contratos (Serviços Terceiros)": {
+        "data_realizacao": "14/10/2026",
+        "situacao": "Realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Cadastro": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Direção Assistencial": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Diretoria Administrativa": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Diretoria Operacional": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Sala de Reuniões - Ébano": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Copa": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Banheiro Feminino": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Mezanino (-1) - Sala da Gerência da Contabilidade": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Mezanino (-1) - Sala do Setor de Compras": {
+        "data_realizacao": "14/10/2026",
+        "situacao": "Realizada",
+        "tarefas": {
+          "Lavar paredes": "Concluído",
+          "Limpar teto conforme protocolo": "Concluído",
+          "Higienização terminal conforme protocolo": "Concluído"
+        }
+      },
+      "Mezanino (-1) - Sala do Setor SIGE": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Mezanino (-1) - Sala do Gerente Financeiro": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Mezanino (-1) - Salão de Computadores": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Mezanino (-1) - Copa": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Mezanino (-1) - Toalete Unissex": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Mezanino (-1) - Toalete Masculino": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      },
+      "Mezanino (-1) - Toalete Feminino": {
+        "data_realizacao": "",
+        "situacao": "Ainda não realizada",
+        "tarefas": {
+          "Lavar paredes": "Pendente",
+          "Limpar teto conforme protocolo": "Pendente",
+          "Higienização terminal conforme protocolo": "Pendente"
+        }
+      }
+    }
+  },
+  "2026-10-15": {
+    "Tecnologia e Informação - TIC": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da TIC - lavar o piso": "Pendente",
+        "Toalete interno da TIC - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da TIC - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da TIC - limpar espelho": "Pendente",
+        "Toalete interno da TIC - repor materiais, se necessário": "Pendente",
+        "Toalete interno da TIC - recolher o lixo": "Pendente"
+      }
+    },
+    "Comercial e Contas Particulares": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "SCIH": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Gestão de Leitos": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Qualidade": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Gerência de Contas Médicas": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Direção Médica": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Gestão de Contratos (Serviços Terceiros)": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Cadastro": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Direção Assistencial": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da Direção Assistencial - lavar o piso": "Pendente",
+        "Toalete interno da Direção Assistencial - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da Direção Assistencial - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da Direção Assistencial - limpar espelho": "Pendente",
+        "Toalete interno da Direção Assistencial - repor materiais, se necessário": "Pendente",
+        "Toalete interno da Direção Assistencial - recolher o lixo": "Pendente"
+      }
+    },
+    "Diretoria Administrativa": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da Diretoria Administrativa - lavar o piso": "Pendente",
+        "Toalete interno da Diretoria Administrativa - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da Diretoria Administrativa - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da Diretoria Administrativa - limpar espelho": "Pendente",
+        "Toalete interno da Diretoria Administrativa - repor materiais, se necessário": "Pendente",
+        "Toalete interno da Diretoria Administrativa - recolher o lixo": "Pendente"
+      }
+    },
+    "Diretoria Operacional": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da Diretoria Operacional - lavar o piso": "Pendente",
+        "Toalete interno da Diretoria Operacional - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da Diretoria Operacional - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da Diretoria Operacional - limpar espelho": "Pendente",
+        "Toalete interno da Diretoria Operacional - repor materiais, se necessário": "Pendente",
+        "Toalete interno da Diretoria Operacional - recolher o lixo": "Pendente"
+      }
+    },
+    "Sala de Reuniões - Ébano": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Copa": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar mesas e bancadas": "Pendente",
+        "Limpar pia e torneira": "Pendente",
+        "Recolher o lixo da copa": "Pendente",
+        "Organizar a copa": "Pendente",
+        "Limpar a geladeira": "Não aplicável hoje",
+        "Aspirar o carpete da copa": "Não aplicável hoje",
+        "Banheiro Masculino principal (na copa) - lavar o piso": "Pendente",
+        "Banheiro Masculino principal (na copa) - higienizar vaso sanitário": "Pendente",
+        "Banheiro Masculino principal (na copa) - higienizar pia e torneiras": "Pendente",
+        "Banheiro Masculino principal (na copa) - limpar espelho": "Pendente",
+        "Banheiro Masculino principal (na copa) - repor materiais, se necessário": "Pendente",
+        "Banheiro Masculino principal (na copa) - recolher o lixo": "Pendente"
+      }
+    },
+    "Banheiro Feminino": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala da Gerência da Contabilidade": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala do Setor de Compras": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala do Setor SIGE": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala do Gerente Financeiro": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Salão de Computadores": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Copa": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar mesas e bancadas": "Pendente",
+        "Limpar pia e torneira": "Pendente",
+        "Limpar a parte externa da geladeira": "Pendente",
+        "Limpar o interior da geladeira": "Não aplicável hoje",
+        "Limpar o micro-ondas": "Pendente",
+        "Recolher o lixo da copa": "Pendente",
+        "Organizar a copa": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Toalete Unissex": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Toalete Masculino": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Toalete Feminino": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    }
+  },
+  "2026-10-19": {
+    "Tecnologia e Informação - TIC": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da TIC - lavar o piso": "Pendente",
+        "Toalete interno da TIC - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da TIC - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da TIC - limpar espelho": "Pendente",
+        "Toalete interno da TIC - repor materiais, se necessário": "Pendente",
+        "Toalete interno da TIC - recolher o lixo": "Pendente"
+      }
+    },
+    "Comercial e Contas Particulares": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "SCIH": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Gestão de Leitos": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Qualidade": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Gerência de Contas Médicas": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Direção Médica": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Gestão de Contratos (Serviços Terceiros)": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Cadastro": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Direção Assistencial": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da Direção Assistencial - lavar o piso": "Pendente",
+        "Toalete interno da Direção Assistencial - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da Direção Assistencial - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da Direção Assistencial - limpar espelho": "Pendente",
+        "Toalete interno da Direção Assistencial - repor materiais, se necessário": "Pendente",
+        "Toalete interno da Direção Assistencial - recolher o lixo": "Pendente"
+      }
+    },
+    "Diretoria Administrativa": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da Diretoria Administrativa - lavar o piso": "Pendente",
+        "Toalete interno da Diretoria Administrativa - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da Diretoria Administrativa - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da Diretoria Administrativa - limpar espelho": "Pendente",
+        "Toalete interno da Diretoria Administrativa - repor materiais, se necessário": "Pendente",
+        "Toalete interno da Diretoria Administrativa - recolher o lixo": "Pendente"
+      }
+    },
+    "Diretoria Operacional": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje",
+        "Toalete interno da Diretoria Operacional - lavar o piso": "Pendente",
+        "Toalete interno da Diretoria Operacional - higienizar vaso sanitário": "Pendente",
+        "Toalete interno da Diretoria Operacional - higienizar pia e torneiras": "Pendente",
+        "Toalete interno da Diretoria Operacional - limpar espelho": "Pendente",
+        "Toalete interno da Diretoria Operacional - repor materiais, se necessário": "Pendente",
+        "Toalete interno da Diretoria Operacional - recolher o lixo": "Pendente"
+      }
+    },
+    "Sala de Reuniões - Ébano": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Aspirar o carpete": "Não aplicável hoje"
+      }
+    },
+    "Copa": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar mesas e bancadas": "Pendente",
+        "Limpar pia e torneira": "Pendente",
+        "Recolher o lixo da copa": "Pendente",
+        "Organizar a copa": "Pendente",
+        "Limpar a geladeira": "Pendente",
+        "Aspirar o carpete da copa": "Não aplicável hoje",
+        "Banheiro Masculino principal (na copa) - lavar o piso": "Pendente",
+        "Banheiro Masculino principal (na copa) - higienizar vaso sanitário": "Pendente",
+        "Banheiro Masculino principal (na copa) - higienizar pia e torneiras": "Pendente",
+        "Banheiro Masculino principal (na copa) - limpar espelho": "Pendente",
+        "Banheiro Masculino principal (na copa) - repor materiais, se necessário": "Pendente",
+        "Banheiro Masculino principal (na copa) - recolher o lixo": "Pendente"
+      }
+    },
+    "Banheiro Feminino": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala da Gerência da Contabilidade": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala do Setor de Compras": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala do Setor SIGE": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Sala do Gerente Financeiro": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Salão de Computadores": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar superfícies acessíveis": "Pendente",
+        "Limpar mesas de trabalho": "Pendente",
+        "Limpar externamente os computadores, quando permitido": "Pendente",
+        "Recolher o lixo": "Pendente",
+        "Organizar o ambiente": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Copa": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Limpar mesas e bancadas": "Pendente",
+        "Limpar pia e torneira": "Pendente",
+        "Limpar a parte externa da geladeira": "Pendente",
+        "Limpar o interior da geladeira": "Pendente",
+        "Limpar o micro-ondas": "Pendente",
+        "Recolher o lixo da copa": "Pendente",
+        "Organizar a copa": "Pendente",
+        "Passar mop seco no piso": "Pendente",
+        "Passar mop úmido no piso": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Toalete Unissex": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Toalete Masculino": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    },
+    "Mezanino (-1) - Toalete Feminino": {
+      "situacao": "Pendente",
+      "tarefas": {
+        "Lavar o piso": "Pendente",
+        "Higienizar vaso sanitário": "Pendente",
+        "Higienizar pia e torneiras": "Pendente",
+        "Limpar espelho": "Pendente",
+        "Repor materiais, se necessário": "Pendente",
+        "Recolher o lixo": "Pendente"
+      }
+    }
+  }
+}

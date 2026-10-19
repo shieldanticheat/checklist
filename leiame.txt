@@ -1,0 +1,28 @@
+Passo 1 — Instalar o Python compatível
+A documentação do Kivy 2.3.1 indica suporte ao Python 3.8–3.13, incluindo o Python 3.13 para Windows. 
+
+GitHub
++1
+
+
+
+1. Acesse o site oficial: Baixar Python 3.13 para Windows.
+2. Baixe o instalador Windows installer (64-bit).
+3. Execute o instalador e marque Add Python to PATH, se essa opção aparecer.
+4. Conclua a instalação. Não desinstale o Python 3.15.
+Passo 2 — Instalar o Kivy e executar o checklist
+Depois da instalação, abra o CMD e execute:
+py -3.13 --version
+
+
+Se aparecer Python 3.13.x, execute estes comandos, um por vez:
+py -3.13 -m pip install --upgrade pip
+
+
+py -3.13 -m pip install kivy==2.3.1 reportlab
+
+
+cd /d C:\Users\augus\Desktop\ChecklistLimpeza
+
+
+py -3.13 main.py
